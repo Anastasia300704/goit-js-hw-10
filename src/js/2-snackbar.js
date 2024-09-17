@@ -30,4 +30,4 @@ document.querySelector(".form").addEventListener("submit", (event) => {
 });
 
 import iziToast from "izitoast";
-import "izitoast/dist/css/iziToast.min.css";
+
